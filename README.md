@@ -8,8 +8,6 @@ This repository is intentionally small. It contains only the artifacts that are 
 - the original RL report and notebook used in the portfolio write-up
 - minimal helper code where it adds value for technical review
 
-It is not the full working archive. The larger private AISC repository remains the internal source archive.
-
 ## Structure
 
 - `recsys/` — BERT4Rec capstone report and helper code
