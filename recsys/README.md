@@ -4,7 +4,6 @@ Public source artifacts for the BERT4Rec case study.
 
 ## Included
 
-- `RecSys-Capstone.docx` — original supporting report
 - `util.py` — helper code
 - `vocab.py` — helper code
 
